@@ -1,16 +1,22 @@
-# manguland
+# 🍒 Manguland - Match-2 Fruit Puzzle Game
 
-A new Flutter project.
+A fun and colorful Flutter match-2 game where players swipe to match fruits, earn points, and avoid wrong matches!
 
-## Getting Started
+### 🎮 Features
+- 🍓 Swipe to match adjacent fruits
+- 💥 Matching gives +10 points
+- ❌ Wrong match deducts -5 points
+- 💀 Game over when score hits 0
+- ⚡ Smooth animations using GetX
+- 🔄 Endless gameplay
 
-This project is a starting point for a Flutter application.
+### 📦 Tech Stack
+- Flutter
+- GetX for state management
 
-A few resources to get you started if this is your first Flutter project:
+### 🚀 Getting Started
+1. Clone the repo
+2. Run `flutter pub get`
+3. Run the app: `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enjoy Manguland! 🎉
